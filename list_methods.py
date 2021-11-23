@@ -24,6 +24,6 @@ print("Reverse", numbers)
 
 
 numbers2 = numbers.copy()
-numbers.clear()
+numbers.clear() 
 print("NUMBERS: ", numbers)
 print("NUMBERS_2: ", numbers2)
